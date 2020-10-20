@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Deadpoolfanpage/static/css/main.9cd882ed.chunk.css",
+    "main.js": "/Deadpoolfanpage/static/js/main.fd32d1e0.chunk.js",
+    "main.js.map": "/Deadpoolfanpage/static/js/main.fd32d1e0.chunk.js.map",
+    "runtime-main.js": "/Deadpoolfanpage/static/js/runtime-main.c8c12a93.js",
+    "runtime-main.js.map": "/Deadpoolfanpage/static/js/runtime-main.c8c12a93.js.map",
+    "static/js/2.162a38ff.chunk.js": "/Deadpoolfanpage/static/js/2.162a38ff.chunk.js",
+    "static/js/2.162a38ff.chunk.js.map": "/Deadpoolfanpage/static/js/2.162a38ff.chunk.js.map",
+    "index.html": "/Deadpoolfanpage/index.html",
+    "precache-manifest.7a47475192c55b908044b57a50296f42.js": "/Deadpoolfanpage/precache-manifest.7a47475192c55b908044b57a50296f42.js",
+    "service-worker.js": "/Deadpoolfanpage/service-worker.js",
+    "static/css/main.9cd882ed.chunk.css.map": "/Deadpoolfanpage/static/css/main.9cd882ed.chunk.css.map",
+    "static/js/2.162a38ff.chunk.js.LICENSE.txt": "/Deadpoolfanpage/static/js/2.162a38ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8c12a93.js",
+    "static/js/2.162a38ff.chunk.js",
+    "static/css/main.9cd882ed.chunk.css",
+    "static/js/main.fd32d1e0.chunk.js"
+  ]
+}
