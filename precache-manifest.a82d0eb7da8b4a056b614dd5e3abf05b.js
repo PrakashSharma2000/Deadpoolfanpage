@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c21c5df6afc4e9f69fe2d095bdba39e",
+    "revision": "526daa4c369805be16cd490cb4fe1c7e",
     "url": "/Deadpoolfanpage/index.html"
   },
   {
-    "revision": "44a562c85f362a3b1bd8",
+    "revision": "b6aed22174195a3e4ec5",
     "url": "/Deadpoolfanpage/static/css/main.9cd882ed.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Deadpoolfanpage/static/js/2.162a38ff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "44a562c85f362a3b1bd8",
-    "url": "/Deadpoolfanpage/static/js/main.fd32d1e0.chunk.js"
+    "revision": "b6aed22174195a3e4ec5",
+    "url": "/Deadpoolfanpage/static/js/main.25a2711d.chunk.js"
   },
   {
     "revision": "434563bc4f91dadddbc6",

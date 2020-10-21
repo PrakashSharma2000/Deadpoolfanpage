@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Deadpoolfanpage/precache-manifest.7a47475192c55b908044b57a50296f42.js"
+  "/Deadpoolfanpage/precache-manifest.a82d0eb7da8b4a056b614dd5e3abf05b.js"
 );
 
 self.addEventListener('message', (event) => {
